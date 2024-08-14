@@ -1,4 +1,4 @@
-# #1493 - Easy
+# #1493 - Medium
 ## Longest Subarray of 1's After Deleting One Element
 Given a binary array nums, you should delete one element from it.
 
