@@ -1,19 +1,13 @@
 class Solution:
     def pivotIndex(self, nums: [int]) -> int:
-        if len(nums) == 1:
-            return 0
+        left, right = 0, sum(nums)
 
-        if len(nums) == 2:
-            if nums[0] == 0:
-                return 1
-            elif nums[1] == 0:
-                return 0
-            return -1
+        for index, num in enumerate(nums):
+            right -= num
 
-        for i in range(len(nums)):
-            if i == 0 and sum(nums[1:]) == 0:
-                return 0
-            if sum(nums[i+1:]) == sum(nums[:i+1]):
-                return 1
+            if left == right:
+                return index
+
+            left += num
 
         return -1
