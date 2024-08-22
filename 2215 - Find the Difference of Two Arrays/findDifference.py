@@ -1,5 +1,5 @@
 class Solution:
-    def findDifference(self, nums1: [int], nums2: [int]) -> [[int]]:
+    def find_difference(self, nums1: [int], nums2: [int]) -> [[int]]:
         out1, out2 = [], []
 
         for i in nums1:
@@ -12,3 +12,9 @@ class Solution:
 
         return [out1, out2]
 
+
+if __name__ == "__main__":
+    sol = Solution()
+    test1 = [1, 2, 3]
+    test2 = [2, 4, 6]
+    print(sol.find_difference(test1, test2) or "failed")
