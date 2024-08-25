@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-## Problems Solved: 2
+## Problems Solved: 7
 
 ### Easy: 4
 
