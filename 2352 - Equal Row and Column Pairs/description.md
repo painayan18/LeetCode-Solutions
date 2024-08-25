@@ -8,19 +8,19 @@ A row and column pair is considered equal if they contain the same elements in t
 
 #### Example 1:
 
-Input: grid = [[3,2,1],[1,7,6],[2,7,7]]<br/>
+Input: grid = [ [3, 2, 1], [1, 7, 6], [2, 7, 7] ]<br/>
 Output: 1<br/>
 Explanation: There is 1 equal row and column pair:
-- (Row 2, Column 1): [2,7,7]<br/>
+- (Row 2, Column 1): [2, 7, 7]<br/>
 <br/>
 #### Example 2:
 
-Input: grid = [[3,1,2,2],[1,4,4,5],[2,4,2,2],[2,4,2,2]]<br/>
+Input: grid = [[3, 1, 2, 2], [1, 4, 4, 5], [2, 4, 2, 2], [2, 4, 2, 2]]<br/>
 Output: 3<br/>
 Explanation: There are 3 equal row and column pairs:
-- (Row 0, Column 0): [3,1,2,2]
-- (Row 2, Column 2): [2,4,2,2]
-- (Row 3, Column 2): [2,4,2,2]<br/>
+- (Row 0, Column 0): [3, 1, 2, 2]
+- (Row 2, Column 2): [2, 4, 2, 2]
+- (Row 3, Column 2): [2, 4, 2, 2]<br/>
 <br/> 
 
 #### Constraints:
