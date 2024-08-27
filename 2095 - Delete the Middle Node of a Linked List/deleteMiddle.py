@@ -8,11 +8,11 @@ class ListNode:
 
 
 def delete_middle(head: Optional[ListNode]) -> Optional[ListNode]:
-    if not head:
-        return None
 
-    prev = ListNode()
-    prev.next = head
+    if not head:
+        return head
+
+    prev = ListNode(0, head)
 
     slow = prev
     fast = head
