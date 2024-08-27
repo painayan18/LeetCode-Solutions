@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-## Problems Solved: 10
+## Problems Solved: 11
 
 ### Easy: 4
 
-### Medium: 6
+### Medium: 7
 
 ### Hard: 0
