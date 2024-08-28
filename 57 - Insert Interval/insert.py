@@ -1,5 +1,13 @@
 def main():
-    pass
+    # test1
+    intervals1 = [[1, 3], [6, 9]]
+    new_interval1 = [2, 5]
+    print(insert(intervals1, new_interval1))
+
+    # test2
+    intervals2 = [[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]]
+    new_interval2 = [4, 8]
+    print(insert(intervals2, new_interval2))
 
 
 def insert(intervals: [[int]], new_interval: [int]) -> [[int]]:
