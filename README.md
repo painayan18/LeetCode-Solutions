@@ -12,6 +12,7 @@
 
 
 #### Easy Solved:
+- **207**: Reverse Linked List
 - **724**: Find Pivot Index
 - **1207**: Unique Number of Experiences
 - **1732**: Find the Highest Altitude
@@ -19,6 +20,8 @@
 <br/><br/>
 
 #### Medium Solved:
+- **57**: Insert Interval
+- **328**: Odd Even Linked List
 - **394**: Decode String
 - **649**: Dota2 Senate
 - **735**: Asteroid Collision
