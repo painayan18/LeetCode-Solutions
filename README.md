@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-## Problems Solved: 16
+## Problems Solved: 17
 
 ### Easy: 5
 
-### Medium: 11
+### Medium: 12
 
 ### Hard: 0
 
@@ -22,6 +22,7 @@
 #### Medium Solved:
 - **15**: 3Sum
 - **57**: Insert Interval
+- **238**: Product of Array Except Self
 - **328**: Odd Even Linked List
 - **394**: Decode String
 - **649**: Dota2 Senate
