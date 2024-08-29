@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-## Problems Solved: 13
+## Problems Solved: 14
 
 ### Easy: 4
 
-### Medium: 9
+### Medium: 10
 
 ### Hard: 0
 
