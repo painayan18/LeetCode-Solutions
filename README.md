@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-## Problems Solved: 14
+## Problems Solved: 15
 
-### Easy: 4
+### Easy: 5
 
 ### Medium: 10
 
