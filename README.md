@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-## Problems Solved: 15
+## Problems Solved: 16
 
 ### Easy: 5
 
-### Medium: 10
+### Medium: 11
 
 ### Hard: 0
 
@@ -20,6 +20,7 @@
 <br/><br/>
 
 #### Medium Solved:
+- **15**: 3Sum
 - **57**: Insert Interval
 - **328**: Odd Even Linked List
 - **394**: Decode String
